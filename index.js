@@ -13,35 +13,16 @@ var resultado = numeroA * numeroB;
 
 // Exercício 3
 
-
-
-
-
-
-// Exercício 5
-let idade = 28;
-
-function podeDirigir (idade) {
-    if (idade < 18) {    
-        return "Você pode dirigir!" }
-    }  
-    else {
-        return "Você não pode dirigir"
-    }
-    console.log(podeDirigir(idade));
+function saudacao () {
+    console.log('Oi eu sou o Goku!');
 }
+saudacao();
 
+//Exercício 4
 
-
-//Exercício 6
-
-for (i=0 ; i <= 20 ; i ++) {
-    if (i % 2 = 1) {
-        console.log (i)
-    }
+function multiplica (a, b){
+    return a*b
 }
-      
-// Exercício 7
+console.log(multiplica(2,4));
 
-let numeroTabuada = 1;
-function tabuada (numeroTabuada)
+//Exercício 5
