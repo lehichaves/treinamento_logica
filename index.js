@@ -36,7 +36,13 @@ function podeDirigir (idade) {
 }
 console.log(podeDirigir(28))
 
-//
+// Exercício 6 
+
+for (var i = 0; i <= 20; i++) {
+    console.log(i)
+}
+
+
 
 
 
