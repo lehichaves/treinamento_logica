@@ -57,7 +57,12 @@ function tabuada(a) {
       console.log(a + 'x' + i + '=' + (a * i) );
     }
   }
-tabuada(5)
+tabuada(2)
 
+// Exercício 9
 
+function converterEmHoras (a) {
+   console.log(a/60 + ' hora(s)') 
+}
+converterEmHoras(150)
 
