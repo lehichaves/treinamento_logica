@@ -50,7 +50,14 @@ for (var i = 0; i <= 20 ; i++){
         }
 }
 
+// Exercício 8
 
+function tabuada(a) {
+    for (var i = 1; i <= 10; i++) {
+      console.log(a + 'x' + i + '=' + (a * i) );
+    }
+  }
+tabuada(5)
 
 
 
